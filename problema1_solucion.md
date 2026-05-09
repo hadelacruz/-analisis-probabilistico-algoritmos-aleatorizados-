@@ -111,8 +111,6 @@ La implementación en Python (`problema1_generador_uniforme.py`) confirma:
 
 Ver implementación completa en Python: [`problema1_generador_uniforme.py`](./problema1_generador_uniforme.py)
 
-El código ya incluido en el enunciado (JavaScript) es correcto. La versión Python replica la misma lógica añadiendo verificaciones estadísticas y análisis de múltiples rangos.
-
 ---
 
 ## Conclusión
