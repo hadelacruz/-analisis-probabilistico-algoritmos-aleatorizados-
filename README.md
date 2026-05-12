@@ -1,6 +1,6 @@
 # Analisis Probabilistico de Algoritmos Aleatorizados
 
-Vídeo problemas 1 al 6a: https://youtu.be/o3VD26KNsxw
+Vídeo problemas 1 al 6a: https://youtu.be/o3VD26KNsxw \
 Vídeo problemas 6b al 7b: https://youtu.be/quTufj1QpCg
 
 Repositorio con soluciones teoricas y verificaciones experimentales en Python para ejercicios de analisis probabilistico de algoritmos aleatorizados.
